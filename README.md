@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mahekn23/mahekn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning ML and Flask.
+ 
+- 🌱 I’m currently working as a Backend Developer Intern at Auto-DL (https://github.com/Auto-DL/Auto-DL) and a ML Intern at Trivia Softwares.
+ 
+- 💬 Ask me about Python, Django, ML, DSA and OOPS.
+ 
+- 📫 How to reach me https://www.linkedin.com/in/mahek-nagdev-382a7b1b8 
+
+- ⚡ Fun fact: Composed of coffee and a shot of cynicism!
+
