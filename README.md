@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently learning ML and Flask.
+- 🔭 Learning ML and Flask.
  
 - 🌱 I’m currently working as a Backend Developer Intern at Auto-DL (https://github.com/Auto-DL/Auto-DL) and a ML Intern at Trivia Softwares.
  
