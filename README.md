@@ -4,7 +4,9 @@
 
 - ⭐ Mantra: Life's Short, Talk Fast!! 
 
-- 🔭 Exploring the domain of Machine Learning along with Flask framework.
+- 🔭 Exploring the domain of Machine Learning and Flask framework.
+
+- 🙇‍♀️ Dabbling in Unit Testing.
  
 - 🌱 I’m currently working as a Backend Developer Intern at Auto-DL (https://github.com/Auto-DL/Auto-DL) and a ML Intern at Trivia Softwares.
  
