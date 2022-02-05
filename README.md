@@ -8,7 +8,7 @@
 
 - 🙇‍♀️ Dabbling in Unit Testing.
  
-- 🌱 I’m currently working as a Backend Developer Intern at Auto-DL (https://github.com/Auto-DL/Auto-DL).
+- 🌱 I’m currently looking for a web development internship.
  
 - 💬 Ask me about Python, Django, ML, Flask, Web developement, MySQL, JAVA, DSA, OOPS.
  
